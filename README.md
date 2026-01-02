@@ -1,16 +1,18 @@
-## Hi there 👋
+## Heyy, i’m mahnoor   <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture
+  
+I build apps and digital products on the web.
 
-<!--
-**muana8877/muana8877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i like turning ideas into real, usable things, sometimes client work, sometimes just experimenting.
 
-Here are some ideas to get you started:
+Right now, I work mostly with React, Tailwind, Firebase, and Laravel when the product needs a real backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building full products, not just screens —  
+logic, flows, edge cases, all of it.
+
+fun facts:  
+- I learned design basics for the frontend, but fell in love with it
+- ran a YouTube channel that crossed 2M+ views at 15  
+- anime & pixel vibes have my heart 👾
