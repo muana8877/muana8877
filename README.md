@@ -1,12 +1,21 @@
 ## Heyy, I’m Mahnoor <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32" style="vertical-align:middle;">
   
-I build apps and digital products on the web.
+I build modern web applications with React, Next.js, and creative animations.
 
-i like turning ideas into real, usable things, sometimes client work, sometimes just experimenting.
+## 🚀 What I Build
+- AI-powered productivity tools
+- Real-time applications (chat, collaboration)
+- Animated, interactive websites
+- Client websites (ecommerce, healthcare, B2B)
 
-Right now, I work mostly with React, Tailwind, Firebase, and Laravel when the product needs a real backend.
+## 💻 Tech Stack
 
-I enjoy building full products, not just screens, but logic, flows, edge cases… and even delivering SEO-friendly CMS sites to clients.
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Animations:** GSAP, Framer Motion  
+**Backend:** Node.js (learning), Firebase, Laravel  
+**CMS & Ecommerce:** WordPress, Shopify  
+**Mobile:** React Native  
+**APIs:** Google Gemini, Firebase, RapidAPI 
 
 fun facts:  
 - I learned design basics for the frontend, but fell in love with it
