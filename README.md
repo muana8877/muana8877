@@ -12,7 +12,7 @@ I build modern web applications with React, Next.js, and creative animations.
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
 **Animations:** GSAP, Framer Motion  
-**Backend:** Node.js, Firebase, PHP (Laravel)
+**Backend:** Node.js, Firebase, PHP (Laravel)  
 **CMS & Ecommerce:** WordPress, Shopify  
 **Mobile:** React Native  
 **APIs:** Google Gemini, Firebase, RapidAPI 
